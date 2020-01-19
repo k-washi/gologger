@@ -1,0 +1,20 @@
+[INFO]:2020-01-20 03:01:12 [main.go:14]  - info msg1
+[INFO]:2020-01-20 03:01:12 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:03:31 [main.go:14]  - info msg1
+[INFO]:2020-01-20 03:03:31 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:03:31 [main.go:14]  - info msg1
+[INFO]:2020-01-20 03:03:31 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:04:48 [main.go:14]  - info msg1
+[INFO]:2020-01-20 03:04:48 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:05:53 [main.go:12]  - info msg1
+[INFO]:2020-01-20 03:05:53 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:06:19 [main.go:19]  - info msg1
+[DEBUG]:2020-01-20 03:06:19 [main.go:20]  - debug msg1
+[INFO]:2020-01-20 03:06:19 [subpkg.go:11]  - sub info msg1
+[DEBUG]:2020-01-20 03:06:19 [subpkg.go:12]  - sub debug msg1
+[INFO]:2020-01-20 03:17:01 [main.go:22]  - info msg1
+[INFO]:2020-01-20 03:17:01 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:25:32 [main.go:22]  - info msg1
+[INFO]:2020-01-20 03:25:32 [subpkg.go:11]  - sub info msg1
+[INFO]:2020-01-20 03:29:43 [main.go:22]  - info msg1
+[INFO]:2020-01-20 03:29:43 [subpkg.go:9]  - sub info msg1
